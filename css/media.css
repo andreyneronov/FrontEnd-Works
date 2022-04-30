@@ -39,7 +39,7 @@
 
     .home_container {
         padding: 0 0 20px 0;
-        background: url(/img/bg.png);
+        background: url(../img/bg.png);
         background-position: top;
         justify-content: center;
     }
